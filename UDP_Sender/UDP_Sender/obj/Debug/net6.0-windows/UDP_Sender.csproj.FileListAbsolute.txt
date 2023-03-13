@@ -1,0 +1,17 @@
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\bin\Debug\net6.0-windows\UDP_Sender.exe
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\bin\Debug\net6.0-windows\UDP_Sender.deps.json
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\bin\Debug\net6.0-windows\UDP_Sender.runtimeconfig.json
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\bin\Debug\net6.0-windows\UDP_Sender.dll
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\bin\Debug\net6.0-windows\UDP_Sender.pdb
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.csproj.AssemblyReference.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.Form1.resources
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.csproj.GenerateResource.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.AssemblyInfoInputs.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.AssemblyInfo.cs
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.csproj.CoreCompileInputs.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.dll
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\refint\UDP_Sender.dll
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.pdb
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\UDP_Sender.genruntimeconfig.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Sender\UDP_Sender\obj\Debug\net6.0-windows\ref\UDP_Sender.dll

@@ -1,0 +1,17 @@
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\bin\Debug\net6.0-windows\UDP_Receiver.exe
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\bin\Debug\net6.0-windows\UDP_Receiver.deps.json
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\bin\Debug\net6.0-windows\UDP_Receiver.runtimeconfig.json
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\bin\Debug\net6.0-windows\UDP_Receiver.dll
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\bin\Debug\net6.0-windows\UDP_Receiver.pdb
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.csproj.AssemblyReference.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.Form1.resources
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.csproj.GenerateResource.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.AssemblyInfoInputs.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.AssemblyInfo.cs
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.csproj.CoreCompileInputs.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.dll
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\refint\UDP_Receiver.dll
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.pdb
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\UDP_Receiver.genruntimeconfig.cache
+D:\Workings\Dynamic_UDP_Server\UDP_Receiver\UDP_Receiver\obj\Debug\net6.0-windows\ref\UDP_Receiver.dll
